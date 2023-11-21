@@ -1,0 +1,47 @@
+    #counter{
+    border: 3px solid red;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+.r1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+.co2{
+    height: 800;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.c1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+/* .co3{
+    height: 800;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.l1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellow;
+    align-self: center;
+} */
+
